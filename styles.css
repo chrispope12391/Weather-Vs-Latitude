@@ -11,11 +11,9 @@ body {
 }
 
 .box {
-    min-height: 10px;
-    padding: 10px;
-    position: relative;
-    top: 13px;
-    margin: 5px;
+    height: 57px;
+    position: fixed;
+    top: 0px;
     font-weight: 700;
     font-size: large;
     color: white
@@ -23,13 +21,26 @@ body {
 
 .box-2 {
     height: 600px;
-    width: 600px;
+    width: 900px;
     padding: 20px;
-    position: relative;
-    top: 80px;
-    right: 100px;
-  }
+    position: fixed;
+    top: 170px;
+    left: 200px;
+}
 
+.box-3 {
+    height: 600px;
+    width: 500px;
+    padding: 20px;
+    position: fixed;
+    top: 170px;
+    right: 250px;
+}
+
+.bold {
+    font-weight: bold;
+}
+  
 .white {
     background: white;
 }
@@ -55,4 +66,20 @@ container {
 
 h1 {
     color: rgb(131, 199, 178);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
+
+.row-bordered {
+    position: relative;
+  }
+  
+  .row-bordered:after {
+    content: "";
+    display: block;
+    border-bottom: 1px solid #ccc;
+    position: absolute;
+    bottom: 0;
+    left: 15px;
+    right: 15px;
+  }
