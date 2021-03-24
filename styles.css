@@ -83,6 +83,12 @@ h1 {
     font-weight: bold;
 }
 
+h3 {
+    color: rgb(131, 199, 178);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
 .row-bordered {
   position: relative;
 }
