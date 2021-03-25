@@ -103,7 +103,7 @@ h3 {
   right: 15px;
 }
 
-#nav-select {
+.btn-group {
     visibility: hidden;
   }
   
@@ -111,6 +111,10 @@ h3 {
   @media (max-width: 600px) {
     .navbar li {
       padding: 0px;
+    }
+
+    .navbar {
+        background: rgb(131, 199, 178);
     }
   
     .post {
@@ -122,7 +126,7 @@ h3 {
       visibility: hidden;
     }
   
-    #nav-select {
+.btn-group  {
       visibility: visible;
     }
   }
