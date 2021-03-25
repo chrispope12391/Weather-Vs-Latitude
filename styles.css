@@ -11,8 +11,8 @@ body {
 }
 
 .box {
-    height: 57px;
-    position: fixed;
+    height: 60px;
+    position: absolute;
     top: 0px;
     font-weight: 700;
     font-size: large;
