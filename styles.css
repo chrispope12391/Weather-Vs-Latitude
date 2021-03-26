@@ -95,6 +95,14 @@ hr {
     margin-right: 10px;
 }
 
+.gone {
+  visibility: hidden;
+}
+
+table tbody th {
+  visibility: hidden;
+}
+
 container {
     background: rgb(0, 0, 0);
 }
