@@ -17,3 +17,16 @@ we created a website that shows the Data plots generated from the dataset as wel
 
 
 5. Deploy to GitHub Pages.
+
+## Deployment
+
+
+
+## Built With
+
+* Python Pandas
+* Visual Studio Code
+
+## Author(s)
+
+* Chris Pope
