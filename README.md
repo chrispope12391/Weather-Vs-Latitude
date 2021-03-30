@@ -20,7 +20,9 @@ we created a website that shows the Data plots generated from the dataset as wel
 
 ## Deployment
 
+Website can be accessed through the link below:
 
+https://chrispope12391.github.io/Web-Design-Challenge/
 
 ## Built With
 
