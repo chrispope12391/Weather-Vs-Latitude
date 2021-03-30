@@ -33,4 +33,4 @@ we created a website that shows the Data plots generated from the dataset as wel
 
 ## Contact:
 
-** Email: ** popex107@umn.edu
+__Email:__ popex107@umn.edu
