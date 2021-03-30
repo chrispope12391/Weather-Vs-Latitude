@@ -30,3 +30,7 @@ we created a website that shows the Data plots generated from the dataset as wel
 ## Author(s)
 
 * Chris Pope
+
+## Contact:
+
+** Email: ** popex107@umn.edu
