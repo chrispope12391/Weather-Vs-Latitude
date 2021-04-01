@@ -37,12 +37,13 @@ The website consists of 7 pages in total, which include:
 
 ## Built With
 
-* Pandas
+* Jupyter Notebook
 * Visual Studio Code
 
 ## Languages
 
 * Python
+* Pandas
 * HTML
 * CSS
 
