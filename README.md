@@ -1,16 +1,15 @@
 # Weather-Vs-Latitude
-In this challenge you will take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done. Using our datasets from homework #6,
-we created a website that shows the Data plots generated from the dataset as well as an explanation of the analysis.
+Website created to analyze changes in weather variables as latitude changes.
 
 ## Getting Started
 
-1. Create a new repository for this project called Web-Design-Challenge. Do not add this homework to an existing repository.
+1. Create a new repository and title it as you please. My reporsitory is titled "Weather-Vs-Latitude".
 
 
 2. Clone the new repository to your computer.
 
 
-3. Inside your local git repository, add your html files, as well as your assets, Resources and visualizations folders. Your index.html should be the landing page that the user first sees.
+3. Inside your local git repository, add an html file(s), as well as your assets, Resources and visualizations folders. Your index.html should be the landing page that the user first sees.
 
 
 4. Push the above changes to GitHub or GitLab.
@@ -22,7 +21,7 @@ we created a website that shows the Data plots generated from the dataset as wel
 
 Website can be accessed through the link below:
 
-https://chrispope12391.github.io/Web-Design-Challenge/
+https://chrispope12391.github.io/Weather-Vs-Latitude/
 
 ## Built With
 
