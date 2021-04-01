@@ -23,6 +23,18 @@ Website can be accessed through the link below:
 
 https://chrispope12391.github.io/Weather-Vs-Latitude/
 
+## Description:
+The website consists of 7 pages in total, which include:
+
+* A landing page - This page provides the explanantion to the project and provides links to each visualization page.
+* Four visualization pages - The following pages show visualization plots as well as data analysis for:
+    1. Max Temperature vs. Latitude
+    1. Humidity Percentage vs. Latitude
+    1. Cloudiness Percentage vs. Latitude
+    1. Wind Speed vs. Latitude
+* A comparison page - This page provides clickable plots which while take the user to the plots individual page.
+* A data page - This page displays the table used for the plots which was created in Python Pandas.
+
 ## Built With
 
 * Pandas
